@@ -2,11 +2,10 @@
 
 namespace SWServices\Helpers;
 
-require_once 'SWServices/Helpers/ResponseHelper.php';
-
+use SWServices\Helpers\ResponseHelper as Response;
 use Exception;
 
-class RequestHelper extends ResponseHelper
+class RequestHelper extends Response
 {
     /**
      * Internal method for make a Post Request with a Json Body, It supports a custom Content-Type.

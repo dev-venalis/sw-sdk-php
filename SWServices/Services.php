@@ -2,8 +2,6 @@
 
 namespace SWServices;
 
-require_once 'SWServices/Helpers/RequestHelper.php';
-
 use SWServices\Authentication\AuthenticationService as Authentication;
 use SWServices\Helpers\RequestHelper as Request;
 use Exception;
