@@ -1,9 +1,9 @@
 {
-    "name": "lunasoft/sw-sdk-php",
+    "name": "dev-venalis/sw-sdk-php",
     "description": "PHP Library for SW Services",
     "type": "library",
-    "version": "1.1.0.0",
-    "homepage": "https://github.com/lunasoft/sw-sdk-php",
+    "version": "1.1.0.3",
+    "homepage": "https://github.com/dev-venalis/sw-sdk-php",
     "license": "MIT",
     "authors": [
         {
